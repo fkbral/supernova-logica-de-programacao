@@ -1,0 +1,15 @@
+console.log('tabela verdade AND(E)')
+console.log(true && true)
+console.log(false && true)
+console.log(true && false)
+console.log(false && false)
+
+console.log('tabela verdade OR(OU)')
+console.log(true || true)
+console.log(false || true)
+console.log(true || false)
+console.log(false || false)
+
+console.log('tabela verdade NOT (NÃO)')
+console.log(!true)
+console.log(!false)
