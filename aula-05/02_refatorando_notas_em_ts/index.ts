@@ -1,6 +1,7 @@
 function geraMediaDoAluno(aluno: IAlunoAlt) {
-  for (let materia in aluno.notas) {
-    console.log(materia)
+  let materia: MateriaType
+
+  for (materia in aluno.notas) {
     let somaMateria = 0
   
     for (let nota of aluno.notas[materia]) {
