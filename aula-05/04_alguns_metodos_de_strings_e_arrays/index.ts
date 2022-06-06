@@ -31,7 +31,7 @@ console.log(primeira)
 console.log(segunda)
 console.log(timeFim)
 
-const [ultima, ...restoDoTime] =  time.reverse()
+const [ultima, ...restoDoTime] = time.reverse()
 console.log(restoDoTime)
 
 console.log(`O time é formado por ${restoDoTime.reverse().join(', ')} e ${ultima}`)
