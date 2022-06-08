@@ -1,4 +1,4 @@
-const valores = [0, "", false, undefined, null, " ", true, [], {}, 10, 0.0000001, -2, () => {}]
+const valores = [0, "", false, undefined, null, NaN, " ", true, [], {}, 10, 0.0000001, -2, () => {}]
 
 valores.forEach(valor => {
   const resultado = valor ? "truthy" : "falsy"

@@ -12,3 +12,4 @@
 - false
 - null
 - undefined
+- NaN
