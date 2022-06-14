@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": "23c13819-2cd2-44a5-a0d4-661fd0484d70",
+      "name": "Calça jeans",
+      "value": 200
+    },
+    {
+      "id": "5a3c651c-7db3-4dea-a731-c8c7defdec41",
+      "name": "Jaqueta",
+      "value": 300
+    },
+    {
+      "id": "58647c40-f567-4360-b0fd-f049e424b544",
+      "name": "Tênis de corrida",
+      "value": 120
+    },
+    {
+      "id": "7b3e3845-06b7-45a0-8026-92e194a343be",
+      "name": "Camiseta branca",
+      "value": 60
+    },
+    {
+      "id": "d040004b-d98a-48de-8a56-5bdbfbaab3c8",
+      "name": "Meia cinza",
+      "value": 5
+    }
+  ]
+}
